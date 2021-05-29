@@ -1,0 +1,41 @@
+h2{
+	color:0000FF;}
+h4{
+	color:0000FF;}
+table{
+	background-color:C0C0C0;
+	border-style: solid;
+	padding: 50px;}
+th {
+	text-align: center;
+	background-color:#00FF00;}
+#td1 {
+	text-align: center;
+	background-color:00FFFF;}
+#dcit23{
+	text-align: center;
+	background-color:FF00FF;}
+#gned01{
+	text-align: center;
+	background-color:FFFF00;}
+#itec{
+	text-align: center;
+	background-color:0000FF;}
+#dcit22{
+	text-align: center;
+	background-color:FF0000;}
+#dalumat{
+	text-align: center;
+	background-color:#FFBF00;}
+#fitt{
+	text-align: center;
+	background-color:#FF7F50;}
+#science{
+	text-align: center;
+	background-color:#DE3163;}
+#math{
+	text-align: center;
+	background-color:FFA500;}
+#com{
+	text-align: center;
+	background-color:800080;}
